@@ -261,7 +261,7 @@ footer {
 
 
 /* En dessous de 800 px */
-@media screen and (max-width: 800px) {
+@media screen and (max-width: 801px) {
     main {
         width: 90%;
         padding: 10px;
